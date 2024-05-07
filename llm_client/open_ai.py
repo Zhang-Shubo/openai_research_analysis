@@ -2,7 +2,7 @@ import os
 from openai import AzureOpenAI
 
 client = AzureOpenAI(
-    api_key="40807e176ac44461b3080a6476d10fa1",  
+    api_key="4",  
     api_version="2023-12-01-preview",
     azure_endpoint = "https://instance-nlp-story-local-3.openai.azure.com/"
 )
